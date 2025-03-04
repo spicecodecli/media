@@ -3,6 +3,9 @@
 -----
 
 ## Logos
+#### New Logo
+![new-logo](https://github.com/user-attachments/assets/6d341b48-c6ad-496a-88f3-5419271ec220)
+
 #### With Background   
 ![logo-with-background](https://github.com/user-attachments/assets/bf0c2446-fc91-48ef-873d-d3c4b01b86d3)
 
