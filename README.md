@@ -17,6 +17,22 @@
 
 -----
 
+## Spice Cloud
+
+#### Logo
+![spicecloudlogo](https://github.com/user-attachments/assets/692a6494-5fae-4b85-aa05-f6cc3490b7cc)
+
+#### Logo with Text
+![spicecloud-logo-text](https://github.com/user-attachments/assets/7fa92b5e-f2db-400e-8a94-8de39301f116)
+
+#### Text Logo
+![SPICe-CLOUd-6-30-2025 (2)](https://github.com/user-attachments/assets/423b87b8-a03e-42d7-ac5a-e6d18f6d374f)
+
+#### WIP Logo
+![200690048 (1)](https://github.com/user-attachments/assets/b939aeec-2a1d-4b86-8cf3-0cb5832e7423)
+
+-----
+
 ## Wallpaper
 #### New Wallpaper Compressed (original PNG too big for readme)    
 ![new-wallpaper-min](https://github.com/user-attachments/assets/4d69b41c-374c-4846-ba75-46a759f6d105)
